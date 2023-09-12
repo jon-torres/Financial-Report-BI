@@ -28,7 +28,7 @@ This repository contains an interactive financial analysis report created using 
 - Users can interact with the report by selecting the specific time period they want to explore.
 - Additionally, users can choose various aspects of the charts to view data grouped by their selections, providing a customizable and insightful experience.
 
-To explore the full report interactively, visit [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiOTFmZTliMWYtMTVkZC00YTVjLTk4NmItMDZlOWE1ZDFkYTRiIiwidCI6IjdlOTNlMjg2LWIyOWEtNDQ1NC1hNDFhLWU4NDE5ZWM5ZGViNSJ9).
+To explore the full report interactively, visit [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiOTFmZTliMWYtMTVkZC00YTVjLTk4NmItMDZlOWE1ZDFkYTRiIiwidCI6IjdlOTNlMjg2LWIyOWEtNDQ1NC1hNDFhLWU4NDE5ZWM5ZGViNSJ9) or [WebPage Report](https://jon-torres.github.io/Financial-Report-BI/).
 
 Feel free to explore the insights and customize the report to gain a deeper understanding of the financial data. Your feedback and contributions are welcome!
 
