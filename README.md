@@ -35,4 +35,3 @@ Feel free to explore the insights and customize the report to gain a deeper unde
 ---
 
 
-<iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOTFmZTliMWYtMTVkZC00YTVjLTk4NmItMDZlOWE1ZDFkYTRiIiwidCI6IjdlOTNlMjg2LWIyOWEtNDQ1NC1hNDFhLWU4NDE5ZWM5ZGViNSJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
